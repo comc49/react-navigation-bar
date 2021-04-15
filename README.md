@@ -6,10 +6,6 @@
 - Node Version: 12(LTS)
 - Default Port: 8000
 
-## Application Demo:
-
-![](https://hrcdn.net/s3_pub/istreet-assets/I6El9Mc6YIPHVyHHMA3VjQ/navigation-bar.gif)
-
 ## Functionality Requirements
 
 The component has the following functionalities:
