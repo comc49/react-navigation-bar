@@ -12,11 +12,6 @@ The component has the following functionalities:
 
 - There are 4 tabs: Home, News, Contact, About.
 - The default selected tab is the 'Home' tab.
-- Clicking on a tab renders the relevant content.
-  - Clicking on the Home tab renders content 'HOME PAGE'.
-  - Clicking on the News tab renders content 'NEWS PAGE'.
-  - Clicking on the Contact tab renders content 'CONTACT PAGE'.
-  - Clicking on the About tab renders content 'ABOUT PAGE'.
 - Since the default selected tab is the 'Home' tab, the default displayed content is 'HOME PAGE'.
 
 ## Testing Requirements
